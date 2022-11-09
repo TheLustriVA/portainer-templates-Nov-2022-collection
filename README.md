@@ -22,7 +22,7 @@ To install this list of templates in your Portainer dashboard:
 - Under `App Templates` in the `URL` text box, change the url to:
 
 ```html
-raw://github.com/TheLustriVA/portainer-templates-Nov-2022-collection/blob/main/mlva-templates-2.0-deduped.json
+https://raw.githubusercontent.com/TheLustriVA/portainer-templates-Nov-2022-collection/main/mlva-templates-2.0-deduped.json
 ```
 
 ## Acknowledgements
