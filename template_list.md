@@ -1,47 +1,6 @@
+# Template List
 
-# MLVA Portainer Templates
-
-An up-to-date and large collection of templates for Portainer V2.0.
-
-![Imgur](https://i.imgur.com/KDFvX2P.png)
-
-## To-Do
-
-- [ ] Add a link to each template's webpage
-
-## Contributing
-
-If you want to contribute to this repository, either raise an issue or a Pull Request.
-
-## Deployment
-
-To install this list of templates in your Portainer dashboard:
-
-- Login to your web GUI
-- In the left side-bar, click `settings`
-- Under `App Templates` in the `URL` text box, change the url to:
-
-```html
-raw://github.com/TheLustriVA/portainer-templates-Nov-2022-collection/blob/main/mlva-templates-2.0-deduped.json
-```
-
-## Acknowledgements
-
-- Portainer: [https://github.com/portainer/portainer](https://github.com/portainer/portainer)
-- mycroftwilde: [https://github.com/mycroftwilde/portainer_templates](https://github.com/mycroftwilde/portainer_templates)
-- xneo1: [https://github.com/xneo1/portainer_templates](https://github.com/xneo1/portainer_templates)
-- technorabilia: [https://github.com/technorabilia/portainer-templates/](https://github.com/technorabilia/portainer-templates/)
-- mikestraney: [https://github.com/mikestraney/portainer-templates](https://github.com/mikestraney/portainer-templates)
-- donPabloNow: [https://github.com/donspablo/awesome-saas](https://github.com/donspablo/awesome-saas)
-- dnburgess: [https://github.com/dnburgess/self-hosted-template](https://github.com/dnburgess/self-hosted-template)
-- Qballjos: [https://github.com/Qballjos/portainer_templates](https://github.com/Qballjos/portainer_templates)
-- Self-Hosted Pro: [https://github.com/SelfhostedPro/selfhosted_templates](https://github.com/SelfhostedPro/selfhosted_templates)
-- OliverCullimore: [https://github.com/OliverCullimore/portainer-templates](https://github.com/OliverCullimore/portainer-templates)
-- mediapot: [https://github.com/mediadepot/templates](https://github.com/mediadepot/templates)
-
-## Templates
-
-Count: 488
+## Template Count: 488
 
 ### Registry
 
