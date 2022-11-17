@@ -3717,19 +3717,19 @@
           "set": ""
         }
       ],
-      "image": "linuxserver/plexrequests:latest",
-      "logo": "https://raw.githubusercontent.com/linuxserver/beta-templates/master/lsiodev/img/plexrequests-icon.png",
-      "name": "plexrequests",
+      "image": "lscr.io/linuxserver/ombi:latest",
+      "logo": "https://raw.githubusercontent.com/linuxserver/docker-templates/master/linuxserver.io/img/ombi.png",
+      "name": "Ombi (former:PlexRequests)",
       "platform": "linux",
       "ports": [
         "3000:3000/tcp"
       ],
       "restart_policy": "unless-stopped",
-      "title": "Plex Requests",
+      "title": "Ombi",
       "type": 1,
       "volumes": [
         {
-          "bind": "/portainer/Files/AppData/Config/PlexRequests",
+          "bind": "/portainer/Files/AppData/Config/Ombi",
           "container": "/config"
         }
       ]
