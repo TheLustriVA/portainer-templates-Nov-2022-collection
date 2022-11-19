@@ -25,6 +25,12 @@ To install this list of templates in your Portainer dashboard:
 https://raw.githubusercontent.com/TheLustriVA/portainer-templates-Nov-2022-collection/main/mlva-templates-2.0-deduped.json
 ```
 
+## Changelog
+
+### 2022-11-20 Added alternative Bookstack template
+
+- Added alternative Bookstack template for those who will be using Bookstack in a subdomain or subfolder of a public domain. See [the Bookstack official documentation on the issue.](https://www.bookstackapp.com/docs/admin/subdirectory-setup/)
+
 ## Acknowledgements
 
 - Portainer: [https://github.com/portainer/portainer](https://github.com/portainer/portainer)
