@@ -11492,7 +11492,7 @@
       "platform": "linux",
       "repository": {
         "stackfile": "Template/Stack/authentik.yml",
-        "url": "https://github.com/xneo1/portainer_templates"
+        "url": "https://github.com/TheLustriVA/xneo1_portainer_templates"
       },
       "title": "Authentik",
       "type": 3
@@ -11667,7 +11667,7 @@
       "name": "freeboard",
       "repository": {
         "stackfile": "Template/Stack/freeboard.yml",
-        "url": "https://github.com/xneo1/portainer_templates"
+        "url": "https://github.com/TheLustriVA/xneo1_portainer_templates"
       },
       "platform": "linux",
       "ports": ["8000:80/tcp"],
@@ -11682,7 +11682,7 @@
       "name": "Ghostfolio",
       "repository": {
         "stackfile": "Template/Stack/ghostfolio.yml",
-        "url": "https://github.com/xneo1/portainer_templates"
+        "url": "https://github.com/TheLustriVA/xneo1_portainer_templates"
       },
       "platform": "linux",
       "ports": ["3663:80/tcp"],
@@ -11697,7 +11697,7 @@
       "name": "Servas",
       "repository": {
         "stackfile": "Template/Stack/servas.yml",
-        "url": "https://github.com/xneo1/portainer_templates"
+        "url": "https://github.com/TheLustriVA/xneo1_portainer_templates"
       },
       "platform": "linux",
       "ports": ["8456:80/tcp"],
@@ -11712,7 +11712,7 @@
       "name": "Wallabag",
       "repository": {
         "stackfile": "Template/Stack/wallabag.yml",
-        "url": "https://github.com/xneo1/portainer_templates"
+        "url": "https://github.com/TheLustriVA/xneo1_portainer_templates"
       },
       "platform": "linux",
       "ports": ["8234:80/tcp"],
@@ -11817,7 +11817,7 @@
       "platform": "linux",
       "repository": {
         "stackfile": "Template/Stack/frigatenvr.yml",
-        "url": "https://github.com/xneo1/portainer_templates"
+        "url": "https://github.com/TheLustriVA/xneo1_portainer_templates"
       },
       "title": "Frigate NVR",
       "type": 3
@@ -11846,7 +11846,7 @@
       "platform": "linux",
       "repository": {
         "stackfile": "Template/Stack/fenrus.yml",
-        "url": "https://github.com/xneo1/portainer_templates"
+        "url": "https://github.com/TheLustriVA/xneo1_portainer_templates"
       },
       "title": "Fenrus",
       "type": 3
@@ -12399,7 +12399,7 @@
       "platform": "linux",
       "repository": {
         "stackfile": "Template/Stack/navidrome.yml",
-        "url": "https://github.com/xneo1/portainer_templates"
+        "url": "https://github.com/TheLustriVA/xneo1_portainer_templates"
       },
       "title": "Navidrome",
       "type": 3
@@ -17396,7 +17396,7 @@
       "platform": "linux",
       "repository": {
         "stackfile": "Template/Stack/bookstack.yml",
-        "url": "https://github.com/xneo1/portainer_templates"
+        "url": "https://github.com/TheLustriVA/xneo1_portainer_templates"
       },
       "title": "Bookstack",
       "type": 3
@@ -18337,7 +18337,7 @@
       "platform": "linux",
       "repository": {
         "stackfile": "Template/Stack/dashy.yml",
-        "url": "https://github.com/xneo1/portainer_templates"
+        "url": "https://github.com/TheLustriVA/xneo1_portainer_templates"
       },
       "title": "Dashy",
       "type": 3
@@ -18366,7 +18366,7 @@
       "platform": "linux",
       "repository": {
         "stackfile": "Template/Stack/koillection.yml",
-        "url": "https://github.com/xneo1/portainer_templates"
+        "url": "https://github.com/TheLustriVA/xneo1_portainer_templates"
       },
       "title": "Koillection",
       "type": 3
@@ -18395,7 +18395,7 @@
       "platform": "linux",
       "repository": {
         "stackfile": "Template/Stack/vikunja.yml",
-        "url": "https://github.com/xneo1/portainer_templates"
+        "url": "https://github.com/TheLustriVA/xneo1_portainer_templates"
       },
       "title": "Vikunja",
       "type": 3
@@ -18424,7 +18424,7 @@
       "platform": "linux",
       "repository": {
         "stackfile": "Template/Stack/audiobookshelf.yml",
-        "url": "https://github.com/xneo1/portainer_templates"
+        "url": "https://github.com/TheLustriVA/xneo1_portainer_templates"
       },
       "title": "Audiobookshelf",
       "type": 3
@@ -18453,7 +18453,7 @@
       "platform": "linux",
       "repository": {
         "stackfile": "Template/Stack/fenrus.yml",
-        "url": "https://github.com/xneo1/portainer_templates"
+        "url": "https://github.com/TheLustriVA/xneo1_portainer_templates"
       },
       "title": "Fenrus",
       "type": 3
@@ -18482,7 +18482,7 @@
       "platform": "linux",
       "repository": {
         "stackfile": "Template/Stack/authentik.yml",
-        "url": "https://github.com/xneo1/portainer_templates"
+        "url": "https://github.com/TheLustriVA/xneo1_portainer_templates"
       },
       "title": "Authentik",
       "type": 3
@@ -18511,7 +18511,7 @@
       "platform": "linux",
       "repository": {
         "stackfile": "Template/Stack/navidrome.yml",
-        "url": "https://github.com/xneo1/portainer_templates"
+        "url": "https://github.com/TheLustriVA/xneo1_portainer_templates"
       },
       "title": "Navidrome",
       "type": 3
@@ -18618,7 +18618,7 @@
       "platform": "linux",
       "repository": {
         "stackfile": "Template/Stack/invoice-ninja.yml",
-        "url": "https://github.com/xneo1/portainer_templates"
+        "url": "https://github.com/TheLustriVA/xneo1_portainer_templates"
       },
       "title": "Invoice Ninja",
       "type": 3
@@ -18831,7 +18831,7 @@
           "platform": "linux",
           "repository": {
             "stackfile": "Template/Stack/goaccessnpm.yml",
-            "url": "https://github.com/xneo1/portainer_templates"
+            "url": "https://github.com/TheLustriVA/xneo1_portainer_templates"
           },
           "title": "GoAccess for NPM logs",
           "type": 3
@@ -18845,7 +18845,7 @@
           "platform": "linux",
           "repository": {
             "stackfile": "Template/Stack/facebox.yml",
-            "url": "https://github.com/xneo1/portainer_templates"
+            "url": "https://github.com/TheLustriVA/xneo1_portainer_templates"
           },
           "title": "Facebox",
           "type": 3
@@ -19432,7 +19432,7 @@
       "platform": "linux",
       "repository": {
         "stackfile": "Template/Stack/nextcloud.yml",
-        "url": "https://github.com/xneo1/portainer_templates"
+        "url": "https://github.com/TheLustriVA/xneo1_portainer_templates"
       },
       "title": "Nextcloud",
       "type": 3
@@ -19475,7 +19475,7 @@
       "name": "npm",
       "repository": {
         "stackfile": "Template/Stack/npm.yml",
-        "url": "https://github.com/xneo1/portainer_templates"
+        "url": "https://github.com/TheLustriVA/xneo1_portainer_templates"
       },
       "platform": "linux",
       "ports": ["8000:80/tcp"],
@@ -19683,7 +19683,7 @@
       "platform": "linux",
       "repository": {
         "stackfile": "Template/Stack/owncloud.yml",
-        "url": "https://github.com/xneo1/portainer_templates"
+        "url": "https://github.com/TheLustriVA/xneo1_portainer_templates"
       },
       "title": "Owncloud",
       "type": 3
@@ -19716,7 +19716,7 @@
       "platform": "linux",
       "repository": {
         "stackfile": "Template/Stack/petio.yml",
-        "url": "https://github.com/xneo1/portainer_templates"
+        "url": "https://github.com/TheLustriVA/xneo1_portainer_templates"
       },
       "title": "Petio",
       "type": 3
@@ -20953,7 +20953,7 @@
       "categories": ["Network"],
       "description": "NetBox is an infrastructure resource modeling (IRM) application designed to empower network automation. Initially conceived by the network engineering team at DigitalOcean, NetBox was developed specifically to address the needs of network and infrastructure engineers.",
       "image": "netboxcommunity/netbox:latest",
-      "logo": "https://github.com/xneo1/portainer_templates/raw/master/Images/netbox_icon.svg",
+      "logo": "https://github.com/TheLustriVA/xneo1_portainer_templates/raw/master/Images/netbox_icon.svg",
       "name": "netbox",
       "platform": "linux",
       "ports": ["8000:80/tcp"],
@@ -20968,7 +20968,7 @@
       "name": "freeboard",
       "repository": {
         "stackfile": "Template/Stack/freeboard.yml",
-        "url": "https://github.com/xneo1/portainer_templates"
+        "url": "https://github.com/TheLustriVA/xneo1_portainer_templates"
       },
       "platform": "linux",
       "ports": ["8000:80/tcp"],
@@ -20983,7 +20983,7 @@
       "name": "Ghostfolio",
       "repository": {
         "stackfile": "Template/Stack/ghostfolio.yml",
-        "url": "https://github.com/xneo1/portainer_templates"
+        "url": "https://github.com/TheLustriVA/xneo1_portainer_templates"
       },
       "platform": "linux",
       "ports": ["3663:80/tcp"],
@@ -20998,7 +20998,7 @@
       "name": "Servas",
       "repository": {
         "stackfile": "Template/Stack/servas.yml",
-        "url": "https://github.com/xneo1/portainer_templates"
+        "url": "https://github.com/TheLustriVA/xneo1_portainer_templates"
       },
       "platform": "linux",
       "ports": ["8456:80/tcp"],
@@ -21013,7 +21013,7 @@
       "name": "Wallabag",
       "repository": {
         "stackfile": "Template/Stack/wallabag.yml",
-        "url": "https://github.com/xneo1/portainer_templates"
+        "url": "https://github.com/TheLustriVA/xneo1_portainer_templates"
       },
       "platform": "linux",
       "ports": ["8234:80/tcp"],
@@ -21028,7 +21028,7 @@
       "name": "teleport",
       "repository": {
         "stackfile": "Template/Stack/teleport.yml",
-        "url": "https://github.com/xneo1/portainer_templates"
+        "url": "https://github.com/TheLustriVA/xneo1_portainer_templates"
       },
       "platform": "linux",
       "restart_policy": "always",
@@ -21148,7 +21148,7 @@
       "platform": "linux",
       "repository": {
         "stackfile": "Template/Stack/firefox.yml",
-        "url": "https://github.com/xneo1/portainer_templates"
+        "url": "https://github.com/TheLustriVA/xneo1_portainer_templates"
       },
       "title": "Firefox",
       "type": 3
@@ -21161,7 +21161,7 @@
       "platform": "linux",
       "repository": {
         "stackfile": "Template/Stack/homechart.yml",
-        "url": "https://github.com/xneo1/portainer_templates"
+        "url": "https://github.com/TheLustriVA/xneo1_portainer_templates"
       },
       "title": "Homechart",
       "type": 3
@@ -21208,7 +21208,7 @@
       "platform": "linux",
       "repository": {
         "stackfile": "Template/Stack/ferdiserver.yml",
-        "url": "https://github.com/xneo1/portainer_templates"
+        "url": "https://github.com/TheLustriVA/xneo1_portainer_templates"
       },
       "title": "Ferdi Server",
       "type": 3
@@ -21221,7 +21221,7 @@
       "platform": "linux",
       "repository": {
         "stackfile": "Template/Stack/snippetbox.yml",
-        "url": "https://github.com/xneo1/portainer_templates"
+        "url": "https://github.com/TheLustriVA/xneo1_portainer_templates"
       },
       "title": "Snippet Box",
       "type": 3
@@ -21234,7 +21234,7 @@
       "platform": "linux",
       "repository": {
         "stackfile": "Template/Stack/littlelink.yml",
-        "url": "https://github.com/xneo1/portainer_templates"
+        "url": "https://github.com/TheLustriVA/xneo1_portainer_templates"
       },
       "ports": ["3000:3000/tcp"],
       "title": "Littlelink Server",
@@ -21248,7 +21248,7 @@
       "platform": "linux",
       "repository": {
         "stackfile": "Template/Stack/aria2pro.yml",
-        "url": "https://github.com/xneo1/portainer_templates"
+        "url": "https://github.com/TheLustriVA/xneo1_portainer_templates"
       },
       "title": "Aria2 Pro",
       "type": 3
@@ -21261,7 +21261,7 @@
       "platform": "linux",
       "repository": {
         "stackfile": "Template/Stack/photoprism.yml",
-        "url": "https://github.com/xneo1/portainer_templates"
+        "url": "https://github.com/TheLustriVA/xneo1_portainer_templates"
       },
       "title": "Photoprism",
       "type": 3
@@ -21274,7 +21274,7 @@
       "platform": "linux",
       "repository": {
         "stackfile": "Template/Stack/apprise.yml",
-        "url": "https://github.com/xneo1/portainer_templates"
+        "url": "https://github.com/TheLustriVA/xneo1_portainer_templates"
       },
       "title": "Apprise-API",
       "type": 3
@@ -21287,7 +21287,7 @@
       "platform": "linux",
       "repository": {
         "stackfile": "Template/Stack/iperf.yml",
-        "url": "https://github.com/xneo1/portainer_templates"
+        "url": "https://github.com/TheLustriVA/xneo1_portainer_templates"
       },
       "title": "iperf",
       "type": 3
@@ -21300,7 +21300,7 @@
       "platform": "linux",
       "repository": {
         "stackfile": "Template/Stack/lazytainer.yml",
-        "url": "https://github.com/xneo1/portainer_templates"
+        "url": "https://github.com/TheLustriVA/xneo1_portainer_templates"
       },
       "title": "Lazytainer",
       "type": 3
@@ -21313,7 +21313,7 @@
       "platform": "linux",
       "repository": {
         "stackfile": "Template/Stack/homepage.yml",
-        "url": "https://github.com/xneo1/portainer_templates"
+        "url": "https://github.com/TheLustriVA/xneo1_portainer_templates"
       },
       "title": "Homepage",
       "type": 3
@@ -21326,7 +21326,7 @@
       "platform": "linux",
       "repository": {
         "stackfile": "Template/Stack/ihatemoney.yml",
-        "url": "https://github.com/xneo1/portainer_templates"
+        "url": "https://github.com/TheLustriVA/xneo1_portainer_templates"
       },
       "title": "I hate money",
       "type": 3
@@ -21339,7 +21339,7 @@
       "platform": "linux",
       "repository": {
         "stackfile": "Template/Stack/openbudgeteer.yml",
-        "url": "https://github.com/xneo1/portainer_templates"
+        "url": "https://github.com/TheLustriVA/xneo1_portainer_templates"
       },
       "title": "OpenBudgeteer",
       "type": 3
@@ -21352,7 +21352,7 @@
       "platform": "linux",
       "repository": {
         "stackfile": "Template/Stack/fireshare.yml",
-        "url": "https://github.com/xneo1/portainer_templates"
+        "url": "https://github.com/TheLustriVA/xneo1_portainer_templates"
       },
       "title": "Fireshare",
       "type": 3
@@ -21365,7 +21365,7 @@
       "platform": "linux",
       "repository": {
         "stackfile": "Template/Stack/filepizza.yml",
-        "url": "https://github.com/xneo1/portainer_templates"
+        "url": "https://github.com/TheLustriVA/xneo1_portainer_templates"
       },
       "title": "Filepizza",
       "type": 3
@@ -21378,7 +21378,7 @@
       "platform": "linux",
       "repository": {
         "stackfile": "Template/Stack/jump.yml",
-        "url": "https://github.com/xneo1/portainer_templates"
+        "url": "https://github.com/TheLustriVA/xneo1_portainer_templates"
       },
       "title": "Jump",
       "type": 3
@@ -21391,7 +21391,7 @@
       "platform": "linux",
       "repository": {
         "stackfile": "Template/Stack/hasty-paste.yml",
-        "url": "https://github.com/xneo1/portainer_templates"
+        "url": "https://github.com/TheLustriVA/xneo1_portainer_templates"
       },
       "title": "Hasty-Paste",
       "type": 3
@@ -21404,7 +21404,7 @@
       "platform": "linux",
       "repository": {
         "stackfile": "Template/Stack/xwiki.yml",
-        "url": "https://github.com/xneo1/portainer_templates"
+        "url": "https://github.com/TheLustriVA/xneo1_portainer_templates"
       },
       "title": "Xwiki",
       "type": 3
@@ -21417,7 +21417,7 @@
       "platform": "linux",
       "repository": {
         "stackfile": "Template/Stack/leantime.yml",
-        "url": "https://github.com/xneo1/portainer_templates"
+        "url": "https://github.com/TheLustriVA/xneo1_portainer_templates"
       },
       "title": "Leantime",
       "type": 3
@@ -21430,7 +21430,7 @@
       "platform": "linux",
       "repository": {
         "stackfile": "Template/Stack/jellyseer.yml",
-        "url": "https://github.com/xneo1/portainer_templates"
+        "url": "https://github.com/TheLustriVA/xneo1_portainer_templates"
       },
       "title": "Jellyseer",
       "type": 3
@@ -21443,7 +21443,7 @@
       "platform": "linux",
       "repository": {
         "stackfile": "Template/Stack/trudesk.yml",
-        "url": "https://github.com/xneo1/portainer_templates"
+        "url": "https://github.com/TheLustriVA/xneo1_portainer_templates"
       },
       "title": "Trudesk",
       "type": 3
@@ -21456,7 +21456,7 @@
       "platform": "linux",
       "repository": {
         "stackfile": "Template/Stack/dashdot.yml",
-        "url": "https://github.com/xneo1/portainer_templates"
+        "url": "https://github.com/TheLustriVA/xneo1_portainer_templates"
       },
       "title": "Dashdot",
       "type": 3
@@ -21469,7 +21469,7 @@
       "platform": "linux",
       "repository": {
         "stackfile": "Template/Stack/baserow.yml",
-        "url": "https://github.com/xneo1/portainer_templates"
+        "url": "https://github.com/TheLustriVA/xneo1_portainer_templates"
       },
       "title": "Baserow",
       "type": 3
@@ -21482,7 +21482,7 @@
       "platform": "linux",
       "repository": {
         "stackfile": "Template/Stack/broadlink-manager.yml",
-        "url": "https://github.com/xneo1/portainer_templates"
+        "url": "https://github.com/TheLustriVA/xneo1_portainer_templates"
       },
       "title": "Broadlink Manager",
       "type": 3
@@ -21495,7 +21495,7 @@
       "platform": "linux",
       "repository": {
         "stackfile": "Template/Stack/homebridge.yml",
-        "url": "https://github.com/xneo1/portainer_templates"
+        "url": "https://github.com/TheLustriVA/xneo1_portainer_templates"
       },
       "title": "Homebridge",
       "type": 3
@@ -21508,7 +21508,7 @@
       "platform": "linux",
       "repository": {
         "stackfile": "Template/Stack/frigatenvr.yml",
-        "url": "https://github.com/xneo1/portainer_templates"
+        "url": "https://github.com/TheLustriVA/xneo1_portainer_templates"
       },
       "title": "Frigate NVR",
       "type": 3
@@ -21521,7 +21521,7 @@
       "platform": "linux",
       "repository": {
         "stackfile": "Template/Stack/umami.yml",
-        "url": "https://github.com/xneo1/portainer_templates"
+        "url": "https://github.com/TheLustriVA/xneo1_portainer_templates"
       },
       "ports": ["3000:3000/tcp"],
       "title": "Umami.is",
@@ -21535,7 +21535,7 @@
       "platform": "linux",
       "repository": {
         "stackfile": "Template/Stack/matomo.yml",
-        "url": "https://github.com/xneo1/portainer_templates"
+        "url": "https://github.com/TheLustriVA/xneo1_portainer_templates"
       },
       "ports": ["8282:80/tcp"],
       "title": "Matomo",
@@ -21549,7 +21549,7 @@
       "platform": "linux",
       "repository": {
         "stackfile": "Template/Stack/neko.yml",
-        "url": "https://github.com/xneo1/portainer_templates"
+        "url": "https://github.com/TheLustriVA/xneo1_portainer_templates"
       },
       "title": "Neko",
       "type": 3
@@ -21562,7 +21562,7 @@
       "platform": "linux",
       "repository": {
         "stackfile": "Template/Stack/ghost.yml",
-        "url": "https://github.com/xneo1/portainer_templates"
+        "url": "https://github.com/TheLustriVA/xneo1_portainer_templates"
       },
       "title": "Ghost",
       "type": 3
