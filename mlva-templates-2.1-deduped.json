@@ -1,6 +1,6 @@
 {
   "version": "2.1",
-  "portainer_templates": [
+  "templates": [
     {
       "type": 1,
       "title": "Registry",
