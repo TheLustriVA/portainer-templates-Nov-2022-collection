@@ -11,7 +11,7 @@ def save_json_file(file_path, data):
 
 def main(dry_run: bool=False):
     file_path = "mlva-templates-2.0-deduped.json"
-    output_path = "mlva-templates-2.2.rc2-deduped.json"
+    output_path = "templates_2_3_rc1.json"
     
     data = load_json_file(file_path)
     version = data["version"]
@@ -27,8 +27,8 @@ def main(dry_run: bool=False):
             break
 
     cleaned_data = {
-        "version": "2.1",
-        "portainer_templates": list(cleaned_templates.values())
+        "version": "2",
+        "templates": list(cleaned_templates.values())
     }
 
     if dry_run:
